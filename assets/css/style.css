@@ -51,9 +51,15 @@ nav div {
 
 nav h3 {
     float:right;
-    width:10%;
-    margin-top: 20px;
+    width:45px;
+    margin-top: 18px;
     font-weight: normal;
+    font-size:12px;
+    border-right:1px solid rgb(204, 200, 200);
+    padding:0 5px;
+}
+#noBorder{
+    border:none;
 }
 
 #container{
