@@ -24,6 +24,7 @@ body{
 *h4,
 *h5 {
     font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: bold;
 }
 
 nav {
@@ -100,11 +101,12 @@ footer{
     clear:both;
     height: 50px;
   margin-top: -50px;
-  color:black;
+  color:rgb(34, 33, 33);
 }
 
 footer h5 {
     margin-bottom: 0;
+    padding:10px;
 }
 
 /* start css for contact page */
