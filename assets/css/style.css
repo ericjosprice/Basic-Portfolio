@@ -1,5 +1,4 @@
 /* push footer to bottom of page */
-
 html, body {
     height: 100%;
     margin: 0;
@@ -58,14 +57,16 @@ nav h3 {
     font-size:12px;
     border-right:1px solid rgb(204, 200, 200);
     padding:0 5px;
+    text-align:center;
 }
 #noBorder{
     border:none;
+    padding-right:0px;
 }
 
 #container{
     margin:0 auto;
-    width:950px;
+    width:938px;
     clear:both;
     border:1px solid#dddddd;
     background: #ffffff;
@@ -75,6 +76,7 @@ nav h3 {
 section {
     margin:10px;
 }
+
 h2 {
     color:#4aaaa5;
 }
@@ -106,7 +108,6 @@ footer{
 
 footer h5 {
     margin-bottom: 0;
-    padding:10px;
 }
 
 /* start css for contact page */
@@ -115,6 +116,7 @@ input,
 textarea {
     width:100%;
 }
+
 button {
     width:60px;
     height: 30px;
